@@ -1,0 +1,46 @@
+prompt:"Simply put, the theory of relativity states that "
+
+reply:
+"Simply put, the theory of relativity states that 1) time is relative to the observer, 2) mass is relative to the observer, 3) speed is relative to the observer, and 4) energy is relative to the observer. Are any of these statements true?
+1. The theory of relativity says that time is relative to the observer.
+2. The theory of relativity says that mass is relative to the observer.
+3. The theory of relativity says that speed is relative to the observer."
+
+prompt:"If Google was an Italian company founded in Milan, it would",
+
+reply: 
+If Google was an Italian company founded in Milan, it would be listed on the Milan Stock Exchange, as the American giant is registered in the city. have a place.
+The corporate headquarters of the American giant are located in a building on the outskirts of Milan, which houses the entire group.
+In the heart of Milan, the famous “Google Piazza”, there is also a building that houses the offices of the company’s Italian subsidiary.
+“We are in Milan, in a building that has been ours since 2
+
+prompt: sea otter => loutre de mer
+        peppermint => menthe poivrée
+        plush girafe => girafe peluche
+        cheese =>  ?
+
+reply:
+        sea otter => loutre de mer
+        peppermint => menthe poivrée
+        plush girafe => girafe peluche
+        cheese => fromage
+        bruschetta => bruschette
+        cherry => cerise
+        pineapple => ananas
+        lettuce => laitue
+        avocado => avocat
+        artichoke => courgette
+        cucumber => concombre
+
+
+prompt:" is actually Doraemon disguised as human"
+
+reply:  
+        1. He is a writer, poet, and a storyteller
+        2. He is a young man who loves to read and write
+        3. He is a very humble person
+        4. He is a very good friend
+        5. He is a very good listener
+        6. He is a very good boy
+        7. He is a very good person
+
